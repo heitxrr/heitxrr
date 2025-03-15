@@ -1,4 +1,4 @@
-# 👩🏻 Heitor Romero da Rocha
+# Heitor Romero da Rocha
 
 **`Desenvolvedor FullStack`**
 
